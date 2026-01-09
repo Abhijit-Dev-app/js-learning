@@ -26,3 +26,11 @@ const myfun = function(){
 // let store = null; -> object (imp)
 // console.log(typeof store)
 console.log(typeof heroes)
+
+// *******************************Memories***********************************************************************************
+
+// stack(primitive),Heap(non_primitive)
+let myname = "Abhijit"
+let anotherName = myname;
+console.log(anotherName);
+
