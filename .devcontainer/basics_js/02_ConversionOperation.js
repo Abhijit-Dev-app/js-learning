@@ -21,5 +21,21 @@ let strNumber = String(string);
 console.log(typeof strNumber);
 console.log(strNumber);
 
+// ****************************Operation*****************************************
+let  vlaue = 3;
+let negValue = -vlaue;
+// console.log(negValue);
+// console.log(2 + 2);
+// console.log(2**3);
+
+let str1 = "hello"
+let str2 = "hello2";
+// console.log(str1 + str2);
+// console.log(+true); -> 1
+console.log(true);
+// console.log(+""); ->0
+let x = 3;
+let y = 4;
+console.log(`x:${x}, y:${y}`);
 
 
